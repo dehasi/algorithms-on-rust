@@ -1,3 +1,6 @@
+mod task1822_sign_of_the_product_of_an_array;
+mod task1491_average_salary_excluding_the_minimum_and_maximum_salary;
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
