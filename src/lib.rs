@@ -1,3 +1,4 @@
+mod task1_two_sum;
 mod task649_dota2_senate;
 mod task1491_average_salary_excluding_the_minimum_and_maximum_salary;
 mod task1822_sign_of_the_product_of_an_array;
