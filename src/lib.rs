@@ -1,4 +1,5 @@
 mod task1_two_sum;
+mod task54_spiral_matrix;
 mod task649_dota2_senate;
 mod task1456_maximum_number_of_vowels_in_a_substring_of_given_length;
 mod task1491_average_salary_excluding_the_minimum_and_maximum_salary;
